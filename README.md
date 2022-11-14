@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# naxt 를 이용하여 API폴더의 get 및 post공부
